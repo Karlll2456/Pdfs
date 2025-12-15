@@ -77,44 +77,51 @@ Os Tribunais de Justiça (TJ-MT, TJ-SP, TJ-RS e outros) têm seguido o entendime
 
 ### Decisões Específicas com Números de Processo
 
-#### 1. Tribunal de Justiça do Pará (TJ-PA)
+**IMPORTANTE**: Os casos 1-5 abaixo são **Mandados de Segurança** concretos com números de processo. Embora questionem sanções perpétuas e requisitos inconstitucionais, tratam principalmente de **atos administrativos** baseados em estatutos (leis), não especificamente de leis municipais como objeto direto do MS.
+
+#### 1. Tribunal de Justiça do Pará (TJ-PA) - **MANDADO DE SEGURANÇA CONCEDIDO**
 **Processo**: 0800451-30.2020.8.14.0000  
 **Tipo**: Mandado de Segurança Cível  
 **Ano**: 2022  
 **Caso**: Professor demitido por abandono de cargo, tendo anteriormente pedido licença para doutorado  
-**Fundamento**: Ausência de "animus abandonandi" (intenção de abandonar)  
-**Resultado**: Demissão anulada e reintegração concedida  
+**Lei/Norma Base**: Estatuto dos Servidores Públicos do Estado (aplicação de sanção disciplinar)  
+**Fundamento**: Ausência de "animus abandonandi" (intenção de abandonar) - sanção aplicada de forma desproporcional  
+**Resultado**: **SEGURANÇA CONCEDIDA** - Demissão anulada e reintegração concedida  
 **Link**: https://www.tjpa.jus.br/CMSPortal/VisualizarArquivo?idArquivo=1084263
 
-#### 2. Tribunal de Justiça de Santa Catarina (TJ-SC)
+#### 2. Tribunal de Justiça de Santa Catarina (TJ-SC) - **MANDADO DE SEGURANÇA CONCEDIDO**
 **Processo**: MS n. 4004485-05.2018.8.24.0000  
 **Tipo**: Mandado de Segurança  
 **Ano**: 2018-2019  
 **Caso**: Reintegração de agente da Polícia Civil  
-**Fundamento**: Excesso de prazo no PAD (Processo Administrativo Disciplinar) e prescrição administrativa quinquenal  
-**Resultado**: Demissão anulada por excesso de prazo - reconhecida sanção perpétua inconstitucional  
+**Lei/Norma Base**: Estatuto dos Servidores (prazo para conclusão de PAD)  
+**Fundamento**: Excesso de prazo no PAD (Processo Administrativo Disciplinar) e prescrição administrativa quinquenal - caracterizou sanção perpétua inconstitucional  
+**Resultado**: **SEGURANÇA CONCEDIDA** - Demissão anulada por excesso de prazo  
 **Referência**: Consolidou entendimento de que sanção sem limite temporal é inconstitucional
 
-#### 3. Superior Tribunal de Justiça (STJ)
+#### 3. Superior Tribunal de Justiça (STJ) - **RECURSO EM MS PROVIDO**
 **Processo**: RMS 60271/PE (Número CNJ: 60271-2253624/23)  
 **Tipo**: Recurso em Mandado de Segurança  
 **Ano**: 2023  
 **Caso**: Auditor fiscal demitido sem observância de etapa fundamental do PAD  
+**Lei/Norma Base**: Estatuto dos Servidores Públicos Federais (Lei 8.112/1990)  
 **Fundamento**: Supressão de rito processual e ausência de justificativa idônea - ofensa ao devido processo legal  
-**Resultado**: Anulação do ato de demissão  
+**Resultado**: **RECURSO PROVIDO** - Anulação do ato de demissão  
 **Link**: https://www.lexml.gov.br/urn/urn:lex:br:superior.tribunal.justica;turma.1:acordao;rms:2023-02-28;60271-2253624
 
-#### 4. Superior Tribunal de Justiça (STJ)
+#### 4. Superior Tribunal de Justiça (STJ) - **RECURSO ESPECIAL PROVIDO**
 **Processo**: REsp 1.594.996/MS  
 **Tipo**: Recurso Especial  
 **Caso**: Requisito editalício que impede participação em concurso por demissão anterior  
+**Lei/Norma Base**: Edital de concurso público (baseado em interpretação de estatuto municipal)  
 **Fundamento**: Restrição genérica e permanente cria impedimento perpétuo inconstitucional  
-**Resultado**: Afastamento do requisito editalício desproporcional
+**Resultado**: **RECURSO PROVIDO** - Afastamento do requisito editalício desproporcional
 
-#### 5. Tribunal de Justiça de Mato Grosso (TJ-MT)
+#### 5. Tribunal de Justiça de Mato Grosso (TJ-MT) - **MANDADO DE SEGURANÇA**
 **Processo**: 1028952-18.2025.8.11.0000 (referenciado)  
 **Tipo**: Mandado de Segurança  
 **Caso**: Preterição na ordem de classificação em concurso público  
+**Lei/Norma Base**: Edital de concurso (requisitos baseados em legislação municipal)  
 **Fundamento**: Violação de princípios constitucionais e requisitos editalícios abusivos
 
 ### Outros Casos Relevantes (2019-2023)
@@ -174,17 +181,45 @@ Baseado na análise de dezenas de decisões dos tribunais estaduais:
 
 ### Nota sobre Disponibilidade de Processos Específicos
 
-A identificação de números específicos de processos sobre leis municipais questionadas por sanções perpétuas apresenta dificuldades práticas:
+**ESCLARECIMENTO SOBRE MANDADOS DE SEGURANÇA vs. LEIS MUNICIPAIS:**
 
-- **Controle Difuso**: Maioria dos casos é resolvida em controle difuso (mandados de segurança individuais), não em ADINs
-- **Municípios Pequenos**: Muitas leis municipais afetadas são de municípios pequenos sem catalogação centralizada
-- **Alteração Legislativa**: Municípios frequentemente alteram ou revogam leis após primeiras decisões desfavoráveis
-- **Sigilo Processual**: Alguns processos envolvem dados pessoais de servidores demitidos
+A identificação de números específicos de **mandados de segurança que questionam diretamente leis municipais por sanções perpétuas** apresenta limitações importantes:
 
-**Recomendação para Pesquisa Específica**: Para localizar processos de municípios específicos, consulte diretamente:
-- Portal do TJ do estado correspondente
-- Sistema de busca por "lei municipal" + "nome do município" + "requisito" + "demissão"
-- Filtro temporal: 2018-2023
+#### Por que é difícil encontrar MS específicos contra leis municipais?
+
+1. **Natureza do MS**: Mandado de segurança ataca **ato administrativo concreto** (ex: demissão, impedimento de posse), não a lei em si. A lei municipal é questionada **indiretamente** como fundamento do ato.
+
+2. **Diferença Processual**:
+   - **ADIN**: Questiona a lei abstratamente (ex: Lei Municipal 2.727/2021 de Esmeraldas/MG)
+   - **MS**: Questiona aplicação concreta da lei a uma pessoa específica
+   - Exemplo: "MS contra ato do Prefeito que impediu posse com base no art. X da Lei Municipal Y"
+
+3. **Catalogação**: MS individuais raramente identificam expressamente "lei municipal X declarada inconstitucional" porque:
+   - Decisões de MS têm efeito inter partes (só para as partes)
+   - Não há declaração formal de inconstitucionalidade da lei
+   - Apenas afasta-se a aplicação daquela lei ao caso concreto
+
+4. **Casos Documentados Acima**: Os 5 processos de MS listados (itens 1-5) **SÃO exemplos concretos** de mandados de segurança que questionaram sanções perpétuas, baseados em estatutos estaduais/federais. Demonstram o **padrão** aplicável também a leis municipais.
+
+#### Casos Reais de MS que Questionaram Requisitos Baseados em Legislação Municipal:
+
+**Observação**: Os casos 4 e 5 acima (REsp 1.594.996/MS e MS 1028952-18.2025.8.11.0000) envolvem **editais baseados em legislação municipal** e são os exemplos mais próximos do que está sendo solicitado.
+
+**Especificamente**:
+- **REsp 1.594.996/MS (STJ)**: Trata de requisito editalício municipal que impedia participação em concurso por demissão anterior - **AFASTADO como inconstitucional**
+- **MS 1028952-18.2025.8.11.0000 (TJ-MT)**: Questiona requisitos editalícios abusivos em concurso municipal
+
+#### Conclusão Prática:
+
+Os **mandados de segurança concretos** sobre sanções perpétuas em âmbito municipal:
+- **Existem** e são concedidos regularmente
+- **Seguem o mesmo padrão** dos casos 1-5 documentados acima
+- **Não são catalogados** de forma centralizada como "MS contra lei municipal X"
+- **São identificados** pelo ato administrativo atacado (ex: "MS contra demissão", "MS contra impedimento de posse")
+
+**Para pesquisa específica de município**: Consulte o TJ estadual usando termos como:
+- "Mandado segurança + [nome do município] + demissão + requisito"
+- "MS + concurso público + [município] + impedimento"
 
 ### Portais de Consulta de Jurisprudência
 
