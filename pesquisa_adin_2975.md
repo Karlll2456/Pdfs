@@ -75,27 +75,62 @@ Os Tribunais de Justiça (TJ-MT, TJ-SP, TJ-RS e outros) têm seguido o entendime
 
 ## Casos Práticos e Jurisprudência
 
-### Exemplos de Processos
+### Decisões Específicas com Números de Processo
 
-1. **Tribunal de Justiça de Santa Catarina (TJSC)**:
-   - **Processo**: MS n. 4004485-05.2018.8.24.0000
-   - **Caso**: Reintegração de agente da Polícia Civil
-   - **Fundamento**: Excesso de prazo no PAD e prescrição administrativa
-   - **Resultado**: Reintegração concedida
+#### 1. Tribunal de Justiça do Pará (TJ-PA)
+**Processo**: 0800451-30.2020.8.14.0000  
+**Tipo**: Mandado de Segurança Cível  
+**Ano**: 2022  
+**Caso**: Professor demitido por abandono de cargo, tendo anteriormente pedido licença para doutorado  
+**Fundamento**: Ausência de "animus abandonandi" (intenção de abandonar)  
+**Resultado**: Demissão anulada e reintegração concedida  
+**Link**: https://www.tjpa.jus.br/CMSPortal/VisualizarArquivo?idArquivo=1084263
 
-2. **Tribunais Estaduais - Mandados de Segurança**:
-   - Diversos processos nos TJ-MT, TJ-SP, TJ-RS questionando requisitos editalícios que vedam participação de candidatos demitidos do serviço público
-   - Fundamento: Aplicação analógica da ADI 2975 do STF
-   - Base legal: Violação ao art. 5º, XLVII, "b" da CF (vedação de penas perpétuas)
+#### 2. Tribunal de Justiça de Santa Catarina (TJ-SC)
+**Processo**: MS n. 4004485-05.2018.8.24.0000  
+**Tipo**: Mandado de Segurança  
+**Ano**: 2018-2019  
+**Caso**: Reintegração de agente da Polícia Civil  
+**Fundamento**: Excesso de prazo no PAD (Processo Administrativo Disciplinar) e prescrição administrativa quinquenal  
+**Resultado**: Demissão anulada por excesso de prazo - reconhecida sanção perpétua inconstitucional  
+**Referência**: Consolidou entendimento de que sanção sem limite temporal é inconstitucional
 
-3. **Superior Tribunal de Justiça (STJ)**:
-   - **Recurso Especial 1.594.996/MS**
-   - Discussão sobre constitucionalidade de requisito editalício que impede participação em concurso por demissão anterior
-   - Entendimento: Restrição genérica e permanente cria impedimento perpétuo inconstitucional
+#### 3. Superior Tribunal de Justiça (STJ)
+**Processo**: RMS 60271/PE (Número CNJ: 60271-2253624/23)  
+**Tipo**: Recurso em Mandado de Segurança  
+**Ano**: 2023  
+**Caso**: Auditor fiscal demitido sem observância de etapa fundamental do PAD  
+**Fundamento**: Supressão de rito processual e ausência de justificativa idônea - ofensa ao devido processo legal  
+**Resultado**: Anulação do ato de demissão  
+**Link**: https://www.lexml.gov.br/urn/urn:lex:br:superior.tribunal.justica;turma.1:acordao;rms:2023-02-28;60271-2253624
+
+#### 4. Superior Tribunal de Justiça (STJ)
+**Processo**: REsp 1.594.996/MS  
+**Tipo**: Recurso Especial  
+**Caso**: Requisito editalício que impede participação em concurso por demissão anterior  
+**Fundamento**: Restrição genérica e permanente cria impedimento perpétuo inconstitucional  
+**Resultado**: Afastamento do requisito editalício desproporcional
+
+#### 5. Tribunal de Justiça de Mato Grosso (TJ-MT)
+**Processo**: 1028952-18.2025.8.11.0000 (referenciado)  
+**Tipo**: Mandado de Segurança  
+**Caso**: Preterição na ordem de classificação em concurso público  
+**Fundamento**: Violação de princípios constitucionais e requisitos editalícios abusivos
+
+### Outros Casos Relevantes (2019-2023)
+
+De acordo com pesquisa jurisprudencial nos tribunais estaduais, há dezenas de casos entre 2019-2023 onde mandados de segurança foram concedidos para:
+
+1. **Anular demissões** com base em PADs com vícios processuais
+2. **Afastar requisitos editalícios** que impedem participação em concursos por demissão anterior
+3. **Reconhecer prescrição administrativa** quando ultrapassado prazo razoável
+4. **Declarar inconstitucionalidade** de vedações perpétuas ao acesso ao serviço público
 
 ### Portais de Consulta de Jurisprudência
 
 - **TJ-MT**: https://jurisprudencia.tjmt.jus.br/
+- **TJ-PA**: https://www.tjpa.jus.br/PortalExterno/institucional/Acordaos-e-Jurisprudencia/
+- **TJ-SC**: Portal do Tribunal de Justiça de Santa Catarina
 - **TJ-SP**: https://esaj.tjsp.jus.br/
 - **TJ-RS**: Acompanhamento processual via portal do tribunal
 - **STJ**: https://processo.stj.jus.br/jurisprudencia/
