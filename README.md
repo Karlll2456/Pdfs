@@ -7,6 +7,7 @@ This repository contains a Python script to read and extract text from PDF files
 - `Lei Ordinária 254 1993 de Sinop MT.pdf` - Brazilian law document (Lei Ordinária 254/1993 de Sinop, MT)
 - `read_pdf.py` - Python script to read and extract text from PDF files
 - `requirements.txt` - Python dependencies
+- `pesquisa_adin_2975.md` - Legal research on ADIN 2975 and its application to Article 6, VII of the municipal law
 
 ## Requirements
 
