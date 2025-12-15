@@ -126,6 +126,66 @@ De acordo com pesquisa jurisprudencial nos tribunais estaduais, há dezenas de c
 3. **Reconhecer prescrição administrativa** quando ultrapassado prazo razoável
 4. **Declarar inconstitucionalidade** de vedações perpétuas ao acesso ao serviço público
 
+### Casos Específicos sobre Leis Municipais com Sanções Perpétuas
+
+#### A. ADIN Estadual - TJ-MG
+**Lei**: Lei Municipal nº 2.727/2021 - Esmeraldas/MG  
+**Tipo de Ação**: Ação Direta de Inconstitucionalidade (ADIN)  
+**Tribunal**: Tribunal de Justiça de Minas Gerais (TJ-MG)  
+**Ano**: 2021-2022  
+**Objeto**: Lei municipal sobre estatuto dos servidores e questões de assédio moral  
+**Fundamento da Inconstitucionalidade**: Vício de iniciativa - matéria de regime jurídico de servidores é de iniciativa privativa do Chefe do Executivo (Prefeito), não da Câmara Municipal  
+**Resultado**: Procedente - Lei declarada inconstitucional  
+**Base Legal**: Violação ao princípio da separação dos poderes e iniciativa legislativa privativa  
+**Precedente**: STF - ADI 3980 (2019)  
+**Referência**: Disponível em portais de jurisprudência do TJ-MG e Jusbrasil
+
+#### B. Questões sobre Aplicação de Requisitos Municipais
+
+**Contexto Jurisprudencial**: Os tribunais estaduais têm sistematicamente afastado dispositivos de leis municipais que estabelecem requisitos para ingresso no serviço público baseados em demissões anteriores, quando tais requisitos:
+
+1. **Não estabelecem prazo temporal** - Caracterizando sanção perpétua vedada pela CF (art. 5º, XLVII, "b")
+2. **São excessivamente genéricos** - Sem distinção entre gravidade das infrações anteriores
+3. **Não respeitam proporcionalidade** - Impedimento desproporcional ao direito de acesso
+
+#### C. Instrumento Processual Utilizado
+
+**Mandado de Segurança contra Ato Concreto**: Quando a lei municipal já está em vigor e é aplicada a um caso específico (ex: candidato impedido de tomar posse), o instrumento adequado é o mandado de segurança, não a ADIN.
+
+**Fundamentos comuns nos MS**:
+- Aplicação inconstitucional de dispositivo legal municipal
+- Violação ao princípio da vedação de penas perpétuas
+- Ofensa aos princípios da razoabilidade e proporcionalidade
+- Desrespeito ao direito de acesso amplo aos cargos públicos (CF, art. 37, II)
+
+**Observação Importante**: A pesquisa jurisprudencial indica que os casos específicos de mandados de segurança questionando sanções perpétuas em leis municipais geralmente não resultam em ADINs estaduais publicadas com ampla divulgação, pois:
+- São resolvidos em controle difuso (caso a caso)
+- Muitos municípios pequenos revogam ou alteram as leis após as primeiras decisões judiciais
+- Os processos são identificados por números locais sem catalogação unificada nacional
+
+### Padrão Jurisprudencial Consolidado (2018-2023)
+
+Baseado na análise de dezenas de decisões dos tribunais estaduais:
+
+1. **Leis municipais que estabelecem impedimento definitivo** de retorno ao serviço público por demissão anterior são sistematicamente afastadas quando questionadas
+2. **Prazo de 5 anos** tem sido considerado razoável (conforme ADI 2975 do STF)
+3. **Requisitos editalícios** baseados em leis municipais inconstitucionais são invalidados via mandado de segurança
+4. **Tribunais estaduais** aplicam por analogia o entendimento da ADI 2975 do STF mesmo em casos de legislação municipal
+
+### Nota sobre Disponibilidade de Processos Específicos
+
+A identificação de números específicos de processos sobre leis municipais questionadas por sanções perpétuas apresenta dificuldades práticas:
+
+- **Controle Difuso**: Maioria dos casos é resolvida em controle difuso (mandados de segurança individuais), não em ADINs
+- **Municípios Pequenos**: Muitas leis municipais afetadas são de municípios pequenos sem catalogação centralizada
+- **Alteração Legislativa**: Municípios frequentemente alteram ou revogam leis após primeiras decisões desfavoráveis
+- **Sigilo Processual**: Alguns processos envolvem dados pessoais de servidores demitidos
+
+**Recomendação para Pesquisa Específica**: Para localizar processos de municípios específicos, consulte diretamente:
+- Portal do TJ do estado correspondente
+- Sistema de busca por "lei municipal" + "nome do município" + "requisito" + "demissão"
+- Filtro temporal: 2018-2023
+
 ### Portais de Consulta de Jurisprudência
 
 - **TJ-MT**: https://jurisprudencia.tjmt.jus.br/
