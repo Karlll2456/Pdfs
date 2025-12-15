@@ -15,38 +15,23 @@ def read_pdf(pdf_path):
     
     Args:
         pdf_path (str): Path to the PDF file
-        
-    Returns:
-        str: Extracted text from the PDF
     """
-    try:
-        # Open the PDF file
-        reader = PdfReader(pdf_path)
-        
-        # Get the number of pages
-        num_pages = len(reader.pages)
-        print(f"\n{'='*80}")
-        print(f"PDF: {os.path.basename(pdf_path)}")
-        print(f"Total pages: {num_pages}")
-        print(f"{'='*80}\n")
-        
-        # Extract text from all pages
-        full_text = []
-        for page_num, page in enumerate(reader.pages, start=1):
-            text = page.extract_text()
-            if text.strip():
-                print(f"\n--- Page {page_num} ---\n")
-                print(text)
-                full_text.append(text)
-        
-        return "\n\n".join(full_text)
-        
-    except FileNotFoundError:
-        print(f"Error: File '{pdf_path}' not found.")
-        return None
-    except Exception as e:
-        print(f"Error reading PDF: {e}")
-        return None
+    # Open the PDF file
+    reader = PdfReader(pdf_path)
+    
+    # Get the number of pages
+    num_pages = len(reader.pages)
+    print(f"\n{'='*80}")
+    print(f"PDF: {os.path.basename(pdf_path)}")
+    print(f"Total pages: {num_pages}")
+    print(f"{'='*80}\n")
+    
+    # Extract text from all pages
+    for page_num, page in enumerate(reader.pages, start=1):
+        text = page.extract_text()
+        if text.strip():
+            print(f"\n--- Page {page_num} ---\n")
+            print(text)
 
 
 def main():
@@ -69,14 +54,16 @@ def main():
     
     # Read the PDF
     print(f"Reading PDF file: {pdf_path}\n")
-    text = read_pdf(pdf_path)
-    
-    if text:
+    try:
+        read_pdf(pdf_path)
         print(f"\n{'='*80}")
         print("PDF reading completed successfully!")
         print(f"{'='*80}")
-    else:
-        print("Failed to read PDF.")
+    except FileNotFoundError:
+        print(f"Error: File '{pdf_path}' not found.")
+        sys.exit(1)
+    except Exception as e:
+        print(f"Error reading PDF: {e}")
         sys.exit(1)
 
 
