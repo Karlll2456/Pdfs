@@ -1,6 +1,3 @@
-# Generated Excel files
-*.xlsx
-
 # Python
 __pycache__/
 *.py[cod]
