@@ -1,5 +1,4 @@
 import pandas as pd
-import io
 
 # Create a dictionary to hold the dataframes for each sheet
 dfs = {}
@@ -52,7 +51,8 @@ data_q1_calculo = [
 
 df_q1_dre = pd.DataFrame(data_q1_dre, columns=["DRE", "Valor (R$)"])
 df_q1_calc = pd.DataFrame(data_q1_calculo[1:], columns=data_q1_calculo[0])
-dfs['Questão 1 - IRPJ e CSLL'] = pd.concat([df_q1_dre, pd.DataFrame([["", ""]], columns=["DRE", "Valor (R$)"]), df_q1_calc], axis=0)
+separator = pd.DataFrame([["", ""]], columns=["DRE", "Valor (R$)"])
+dfs['Questão 1 - IRPJ e CSLL'] = pd.concat([df_q1_dre, separator, df_q1_calc], axis=0)
 
 # --- Sheet 2: Questão 2 - Distribuição de Lucros ---
 data_q2 = [
